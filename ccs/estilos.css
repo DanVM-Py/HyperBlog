@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera_de_dos_formas
     text-align: center;
     font-family: "Couriel";
     font-size: 10px;
